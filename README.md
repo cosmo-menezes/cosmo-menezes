@@ -2,7 +2,7 @@
 # Hey!👋
 
 My name is **Cosmo Menezes**. I live in São Paulo - SP, I am a metallurgist and student of Computer Science. <br>I am looking for an opportunity to work in the technology sector as a Java programmer<br>
-I have courses in Java, HTML, CSS, Javascript and Database, my English language level is intermediate.<br> I can communicate, write and read in that language. I try to watch movies in English, to train and enrich the vocabulary.<br>
+I have courses on technologies like Java, HTML, CSS, Javascript and Database, my English language level is intermediate.<br> I can communicate, write and read in that language. I try to watch movies in English, to train and enrich the vocabulary.<br>
 Nothing in this world beats good old persistence!<br>
 It's never too late to be what you could have been
 
